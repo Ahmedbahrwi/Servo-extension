@@ -6,6 +6,7 @@ Blockly.defineBlocksWithJsonArray(
       {
         "type": "field_dropdown",
         "name": "pin",
+"check": "Number",
         "options": [
           [
             "Servo1",
@@ -23,6 +24,7 @@ Blockly.defineBlocksWithJsonArray(
             "Servo4",
             "19"
           ],
+
           
   
         ]
